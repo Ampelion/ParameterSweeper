@@ -1,7 +1,7 @@
 # ParameterSweeper
 Baby's first pipeline
 
-This is a variant caller I wrote before I knew any when or if about python!
+This is a parameter sweep I wrote before I knew any when or if about python!
 
 I built it with  a lot of modified StackOverflow threads and with LLM coding  help.  I will rewrite it with my much improved skills --and leave the og version up.
 
